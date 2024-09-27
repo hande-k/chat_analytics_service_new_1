@@ -1,0 +1,62 @@
+[
+  {
+    "bot_id": "bot01",
+    "chat_id": "b1c011",
+    "conversation_start_time": "2024-07-07T15:03:00Z",
+    "number_of_messages": 0
+  },
+  {
+    "bot_id": "bot01",
+    "chat_id": "b1c012",
+    "conversation_start_time": "2024-07-14T15:03:00Z",
+    "number_of_messages": 0
+  },
+  {
+    "bot_id": "bot01",
+    "chat_id": "b1c013",
+    "conversation_start_time": "2024-07-21T15:03:00Z",
+    "number_of_messages": 0
+  },
+  {
+    "bot_id": "bot01",
+    "chat_id": "b1c014",
+    "conversation_start_time": "2024-08-01T15:03:00Z",
+    "number_of_messages": 0
+  },
+  {
+    "bot_id": "bot01",
+    "chat_id": "b1c015",
+    "conversation_start_time": "2024-08-08T15:03:00Z",
+    "number_of_messages": 0
+  },
+  {
+    "bot_id": "bot01",
+    "chat_id": "b1c016",
+    "conversation_start_time": "2024-08-15T15:03:00Z",
+    "number_of_messages": 0
+  },
+  {
+    "bot_id": "bot01",
+    "chat_id": "b1c017",
+    "conversation_start_time": "2024-09-05T15:03:00Z",
+    "number_of_messages": 0
+  },
+  {
+    "bot_id": "bot01",
+    "chat_id": "b1c018",
+    "conversation_start_time": "2024-09-12T15:03:00Z",
+    "number_of_messages": 0
+  },
+  {
+    "bot_id": "bot01",
+    "chat_id": "b1c019",
+    "conversation_start_time": "2024-09-19T15:03:00Z",
+    "number_of_messages": 0
+  },
+  {
+    "bot_id": "bot01",
+    "chat_id": "b1c020",
+    "conversation_start_time": "2024-09-26T15:03:00Z",
+    "number_of_messages": 0
+  }
+]
