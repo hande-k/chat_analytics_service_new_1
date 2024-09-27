@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "new-chat-analytics-service"
+name = "chat_analytics_service_new_1"
 version = "0.1.0"
 description = ""
 authors = ["hande-k <handekafkas7@gmail.com>"]
