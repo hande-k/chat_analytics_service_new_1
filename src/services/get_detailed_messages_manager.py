@@ -1,5 +1,6 @@
 from typing import Dict, List
 import json
+import os
 
 class GetDetailedMessagesManager:
     """
@@ -17,14 +18,14 @@ class GetDetailedMessagesManager:
     
     def read_data_from_json(self) -> List[Dict]:
         """
-        Reads and filters data from the JSON file based on bot_id.
+        Reads and filters data from the JSON file based on chat_id.
         """
         try:
-            with open(f"{self.base_path}/{self.file_name}", "r") as file:
+            file_path = os.path.join(self.base_path, self.file_name)
+            with open(file_path, "r") as file:
                 data = json.load(file)
                 # Filter the conversations by chat_id
                 return [chat for chat in data if chat.get("chat_id") == self.chat_id]
-                print 
         except FileNotFoundError:
             print("File not found. Please check the file path.")
             return []
