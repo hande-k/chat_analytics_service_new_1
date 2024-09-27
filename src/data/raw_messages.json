@@ -326,5 +326,173 @@
     "identity": "user",
     "message_content": "That's all for now, thanks!",
     "timestamp": "2024-09-12T18:06:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c001",
+    "message_id": "m042",
+    "identity": "user",
+    "message_content": "I need help changing my email address.",
+    "timestamp": "2024-08-01T10:00:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c001",
+    "message_id": "m043",
+    "identity": "bot",
+    "message_content": "I can assist with that. Please provide your new email address.",
+    "timestamp": "2024-08-01T10:01:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c002",
+    "message_id": "m044",
+    "identity": "user",
+    "message_content": "Can I upgrade my plan?",
+    "timestamp": "2024-08-05T11:30:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c002",
+    "message_id": "m045",
+    "identity": "bot",
+    "message_content": "Yes, you can upgrade via the account settings page.",
+    "timestamp": "2024-08-05T11:31:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c002",
+    "message_id": "m046",
+    "identity": "user",
+    "message_content": "Could you send me a link?",
+    "timestamp": "2024-08-05T11:32:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c002",
+    "message_id": "m047",
+    "identity": "bot",
+    "message_content": "I’ve sent you the link to the settings page.",
+    "timestamp": "2024-08-05T11:33:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c003",
+    "message_id": "m048",
+    "identity": "user",
+    "message_content": "I need a refund for my recent purchase.",
+    "timestamp": "2024-09-10T09:00:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c003",
+    "message_id": "m049",
+    "identity": "bot",
+    "message_content": "I can assist with that. Can you provide the order number?",
+    "timestamp": "2024-09-10T09:02:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c003",
+    "message_id": "m050",
+    "identity": "user",
+    "message_content": "The order number is #12345.",
+    "timestamp": "2024-09-10T09:03:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c003",
+    "message_id": "m051",
+    "identity": "bot",
+    "message_content": "Thank you. I’ve processed your refund request.",
+    "timestamp": "2024-09-10T09:05:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c004",
+    "message_id": "m052",
+    "identity": "user",
+    "message_content": "How do I update my billing address?",
+    "timestamp": "2024-09-12T14:30:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c004",
+    "message_id": "m053",
+    "identity": "bot",
+    "message_content": "You can update your billing address in your account settings under 'Billing Info'.",
+    "timestamp": "2024-09-12T14:31:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c004",
+    "message_id": "m054",
+    "identity": "user",
+    "message_content": "I can't find it. Can you guide me?",
+    "timestamp": "2024-09-12T14:32:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c004",
+    "message_id": "m055",
+    "identity": "bot",
+    "message_content": "Sure! Navigate to 'Account', then click on 'Billing Info' and you'll see the option to update your address.",
+    "timestamp": "2024-09-12T14:33:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c005",
+    "message_id": "m056",
+    "identity": "user",
+    "message_content": "Is there a way to track my order?",
+    "timestamp": "2024-09-15T16:00:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c005",
+    "message_id": "m057",
+    "identity": "bot",
+    "message_content": "Yes, you can track your order from the 'My Orders' section in your account.",
+    "timestamp": "2024-09-15T16:01:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c005",
+    "message_id": "m058",
+    "identity": "user",
+    "message_content": "Thank you!",
+    "timestamp": "2024-09-15T16:02:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c006",
+    "message_id": "m059",
+    "identity": "user",
+    "message_content": "How long does shipping take?",
+    "timestamp": "2024-09-18T17:00:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c006",
+    "message_id": "m060",
+    "identity": "bot",
+    "message_content": "Standard shipping usually takes 3-5 business days.",
+    "timestamp": "2024-09-18T17:01:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c006",
+    "message_id": "m061",
+    "identity": "user",
+    "message_content": "Is there an expedited option?",
+    "timestamp": "2024-09-18T17:02:00Z"
+  },
+  {
+    "bot_id": "bot02",
+    "chat_id": "b2c006",
+    "message_id": "m062",
+    "identity": "bot",
+    "message_content": "Yes, we offer expedited shipping that delivers within 1-2 business days.",
+    "timestamp": "2024-09-18T17:03:00Z"
   }
 ]
